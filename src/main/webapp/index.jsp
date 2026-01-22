@@ -116,7 +116,7 @@
 
 <!-- Header -->
 <div class="header">
-    <div class="logo">amazon | Dinesh Ramreddy</div>
+    <div class="logo">Praveena | Dinesh Ramreddy</div>
     <div class="search-bar">
         <input type="text" placeholder="Search Amazon">
         <button>Search</button>
