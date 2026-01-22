@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Amazon Style Page - Dinesh Ramreddy</title>
+<title>Amazon Style Page - Praveena Neelam</title>
 
     <style>
         body {
