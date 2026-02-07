@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Amazon Style Page - Praveena Neelam</title>
+<title>Amazon Style Page - Dinesh Ram Reddy</title>
 
     <style>
         body {
@@ -116,7 +116,7 @@
 
 <!-- Header -->
 <div class="header">
-    <div class="logo">Praveena | Dinesh Ramreddy</div>
+    <div class="logo"> Dinesh Ram Reddy</div>
     <div class="search-bar">
         <input type="text" placeholder="Search Amazon">
         <button>Search</button>
