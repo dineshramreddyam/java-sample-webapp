@@ -18,7 +18,7 @@ java-sample-webapp
 │           └── WEB-INF
 │               └── web.xml
 └── pom.xml
-/*
+
 
 <?xml version="1.0" encoding="UTF-8"?>
 
@@ -88,4 +88,4 @@ java-sample-webapp
   </build>
 </project>
 
-*/
+
