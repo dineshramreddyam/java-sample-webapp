@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Amazon Style Page - Dinesh Store</title>
+<title>Amazon Style Page - Dinesh DevOps Store</title>
 
 <style>
 body { margin:0; font-family:Arial,Helvetica,sans-serif; background-color:#EAEDED; }
